@@ -48,5 +48,5 @@ Pull requests are welcome. For major changes, open an issue first.
 ---
 
 ## 📬 Contact
-For questions or improvements, open a GitHub issue.
+For questions or improvements, open a GitHub issue or contact me https://www.linkedin.com/in/vgonzalezdelena/ 
 
